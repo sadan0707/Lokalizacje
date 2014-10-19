@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SqLiteTodoManager</string>
+    <string name="button_add">New task</string>
+    <string name="button_clear">Clear completed</string>
+    <string name="edittext_hint_new_task">Type here your new task...</string>
+    <string name="button_save">Save task</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="id_jednosstki">IDENTYFIKATOR JEDNOSTKI:</string>
+    <string name="id_jednotki_nadrz">IDENTYFIKATOR JEDNOSTKI NADRZEDNEJ:</string>
+    <string name="n_jednostki">NAZWA JEDNOSTKI:</string>
+    <string name="n_jednotki_nadrz">NAZWA JEDNOSTKI NADRZEDNEJ:</string>
+    <string name="adres">ADRES</string>
+    <string name="kod_pocztowy">KOD POCZTOWY:</string>
+    <string name="ulica">ULICA:</string>
+    <string name="miejscowosc">MIEJSCOWOSC:</string>
+    <string name="budynek">OZNACZENIE BUDYNKU:</string>
+    <string name="pietro">PIETRO:</string>
+    <string name="numer_pomieszczenia">NUMER POMIESCZENIA:</string>
+    <string name="nazwa_pomieszczenia">NAZWA POMIESZCZENIA:</string>
+    <string name="telefon">TELEFON KONTAKTOWY:</string>
+</resources>
